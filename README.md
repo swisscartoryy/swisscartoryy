@@ -1,6 +1,5 @@
 # Hi there, I'm Pedro - cartory <a title="Hi! 😊" href="https://www.youtube.com/watch?v=tt2k8PGm-TI" target="_blank"><img width="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></a>
 
-<!-- <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> -->
 <a align="right" title="Music? 🎧" href="https://www.youtube.com/watch?v=34Na4j8AVgA" target="_blank">
   <img align="right" alt="GIF" height="160" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 </a>
@@ -11,19 +10,15 @@
 - 🤖 Working with **LLMs (OpenAI, DeepSeek and more)**
 - ☁️ Exploring **AWS & Azure**
 - 🏆 2026 Goals: Finish all my AI Projects & launch my own AI SaaS.
-- 📫 Best way to contact me? [:email: swisscyartory](mailto:swisscartoryy@gmail.com)
+- 📫 Best way to contact me? [:email: swisscartoryy](mailto:swisscartoryy@gmail.com)
 - 😄 Languages: `Spanish`, `English`, `German`
 
-![Views](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=swisscartoryy&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-[![Github](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&color=grey)](https://cartory.github.io/cari/)
+[![Github](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&color=grey)](https://github.com/swisscartoryy)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-caricari-3816961b0/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cartoryy)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xstJ7Uen)
-[![Twitch](https://img.shields.io/badge/twitch-9147FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cartoryy)
 [![Youtube](https://img.shields.io/badge/-youtube-61DAFB?logo=youtube&style=for-the-badge&color=red)](https://www.youtube.com/channel/UCQu3fZWiFFybOE4T9AJXC7A)
 
----
 #### Technologies 🖥️ 📊
 
 ##### Frontend
