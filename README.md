@@ -10,7 +10,9 @@
 - 🤖 Working with **LLMs, Prompting, NLP (OpenAI, DeepSeek)**
 - ☁️ Exploring **AWS & Azure**
 - 🏆 2026 Goals: Finish all my AI Projects & launch my own AI SaaS.
-- 📫 Best way to contact me? [:email: swisscartoryy](mailto:swisscartoryy@gmail.com)
+- 📫 Best ways to contact me:  
+  - Email: [swisscartoryy@gmail.com](mailto:swisscartoryy@gmail.com)  
+  - Phone: 🇨🇭 +41 077 224 11 20
 - 😄 Languages: `Spanish`, `English`, `German`
 
 ![Views](https://komarev.com/ghpvc/?username=swisscartoryy&color=blue&style=flat-square&label=PROFILE+VIEWS)
