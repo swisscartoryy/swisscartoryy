@@ -1,13 +1,13 @@
 # Hi there, I'm Pedro - cartory <a title="Hi! 😊" href="https://www.youtube.com/watch?v=tt2k8PGm-TI" target="_blank"><img width="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></a>
 
+## I'm a Javascript & AI Developer 🇧🇴
+
 <a align="right" title="Music? 🎧" href="https://www.youtube.com/watch?v=34Na4j8AVgA" target="_blank">
   <img align="right" alt="GIF" height="160" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 </a>
 
-<!-- ## I'm a Javascript & AI Developer 🇧🇴 -->
-
 - 🌱 Currently learning more about **AI Development & Cloud Architecture**
-- 🤖 Working with **LLMs (OpenAI, DeepSeek and more)**
+- 🤖 Working with **LLMs, Prompting, NLP (OpenAI, DeepSeek)**
 - ☁️ Exploring **AWS & Azure**
 - 🏆 2026 Goals: Finish all my AI Projects & launch my own AI SaaS.
 - 📫 Best way to contact me? [:email: swisscartoryy](mailto:swisscartoryy@gmail.com)
@@ -17,7 +17,6 @@
 
 [![Github](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&color=grey)](https://github.com/swisscartoryy)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-caricari-3816961b0/)
-[![Youtube](https://img.shields.io/badge/-youtube-61DAFB?logo=youtube&style=for-the-badge&color=red)](https://www.youtube.com/channel/UCQu3fZWiFFybOE4T9AJXC7A)
 
 #### Technologies 🖥️ 📊
 
