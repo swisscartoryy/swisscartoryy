@@ -4,7 +4,7 @@
   <img align="right" alt="GIF" height="160" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 </a>
 
-## I'm a Javascript & AI Developer 🇧🇴
+<!-- ## I'm a Javascript & AI Developer 🇧🇴 -->
 
 - 🌱 Currently learning more about **AI Development & Cloud Architecture**
 - 🤖 Working with **LLMs (OpenAI, DeepSeek and more)**
