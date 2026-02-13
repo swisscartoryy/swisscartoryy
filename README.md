@@ -3,7 +3,7 @@
 ### Javascript & AI Developer 🇧🇴 🇨🇭
 
 <a align="right" title="Music? 🎧" href="https://www.youtube.com/watch?v=34Na4j8AVgA" target="_blank">
-  <img align="right" alt="GIF" height="120" src="https://i.imgur.com/ShYUuh5.gif" />
+  <img align="right" alt="GIF" height="160" src="https://i.imgur.com/ShYUuh5.gif" />
 </a>
 
 - 🌱 Currently learning more about **AI Development & Cloud Architecture**
